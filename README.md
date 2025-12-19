@@ -1,7 +1,7 @@
 # Hello_World
 # Hello World in Every Programming Language
 
-Programming languages are formal languages comprising a set of instructions used to produce various kinds of output. They enable developers to communicate with computers, from high-level abstractions like Python for rapid prototyping to low-level control in C++ for system programming. This repo showcases minimal "Hello, World!" examples across languages mastered by Manu11-Pro.[memory:2]
+Programming languages are formal languages comprising a set of instructions used to produce various kinds of output. They enable developers to communicate with computers, from high-level abstractions like Python for rapid prototyping to low-level control in C++ for system programming. This repo showcases minimal "Hello, World!" examples across languages mastered by Manu11-Pro.
 
 ## Languages Covered
 
@@ -30,5 +30,5 @@ Programming languages are formal languages comprising a set of instructions used
 
 **Goal: 50+ languages!** Contributions welcome—fork, add your language, PR! ⭐ Star if learning from these examples.
 
-*Student project by Manu11-Pro | [IoT Projects](https://github.com/Manu11-Pro?tab=repositories)*[memory:1][memory:8]
+*Student project by Manu11-Pro | [IoT Projects](https://github.com/Manu11-Pro?tab=repositories)*
 
