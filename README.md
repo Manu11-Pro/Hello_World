@@ -30,5 +30,5 @@ Programming languages are formal languages comprising a set of instructions used
 
 **Goal: 50+ languages!** Contributions welcome—fork, add your language, PR! ⭐ Star if learning from these examples.
 
-*Student project by Manu11-Pro | [IoT Projects](https://github.com/Manu11-Pro?tab=repositories)*
+*By Manu11-Pro*
 
