@@ -1,7 +1,7 @@
 # Hello_World
 # Hello World in Every Programming Language!
 
-Programming languages are formal languages comprising a set of instructions used to produce various kinds of output. They enable developers to communicate with computers, from high-level abstractions like Python for rapid prototyping to low-level control in C++ for system programming. This repo showcases minimal "Hello, World!" examples across languages mastered by Manu11-Pro.
+Programming languages are formal languages comprising a set of instructions used to produce various kinds of output. They enable developers to communicate with computers, from high-level abstractions like Python for rapid prototyping to low-level control in C++ for system programming. This repo showcases minimal "Hello, World!" examples across multiple languages
 
 ## Languages Covered
 
@@ -13,6 +13,7 @@ Programming languages are formal languages comprising a set of instructions used
 - **C#** (`/C#/hello.cs`) - Web, desktop, and enterprise applications
 - **Java** (`/Java/Main.java`) - Enterprise apps with platform independence
 - **PHP** (`/PHP/hello.php`) - Server-side dynamic web content
+- **Ruby** (`/Ruby/helloHP/hello.php`) - Server-side dynamic web content
 - **Ruby** (`/Ruby/hello.rb`) - Elegant syntax for web frameworks
 - **Lua** (`/Lua/hello.lua`) - Lightweight embeddable scripting language
 
@@ -21,9 +22,11 @@ Programming languages are formal languages comprising a set of instructions used
 | Language     | File Path         | Run Command                          |
 |--------------|-------------------|--------------------------------------|
 | Python      | `Python/hello.py` | `python hello.py`                   |
-| JavaScript  | `JavaScript/hello.js`     | `node hello.js`                     |
+| JavaScript  | `JavaScript/hello.js` | `node hello.js`                 |
 | HTML        | `HTML/hello.html` | Open in browser                     |
+| C           | `C/hello.c`       | Open in browser                     |
 | C++         | `C++/hello.cpp`   | `g++ hello.cpp -o hello && ./hello` |
+| C#          | `C#/hello.cs`     | Open in browser                     |
 | Java        | `Java/Main.java`  | `javac Main.java && java Main`      |
 | PHP         | `PHP/hello.php`   | `php hello.php`                     |
 | Ruby        | `Ruby/hello.rb`   | `ruby hello.rb`                     |
