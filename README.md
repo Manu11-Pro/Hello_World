@@ -33,7 +33,7 @@ Programming languages are formal languages comprising a set of instructions used
 | Lua          | `Lua/hello.lua`   | `lua hello.lua`                      |
 
 ## 📈 Progress
-[![Languages](https://img.shields.io/badge/Languages-7%2F50-brightgreen)](README.md) [![Stars](https://img.shields.io/github/stars/Manu11-Pro/hello-world-languages?style=social)](https://github.com/Manu11-Pro/hello-world-languages)
+[![Languages](https://img.shields.io/badge/Languages-10%2F50-brightgreen)](README.md) [![Stars](https://img.shields.io/github/stars/Manu11-Pro/hello-world-languages?style=social)](https://github.com/Manu11-Pro/hello-world-languages)
 
 **Goal: 50+ languages!** Contributions welcome—fork, add your language, PR! ⭐ Star if learning from these examples.
 
