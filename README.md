@@ -21,15 +21,16 @@ Programming languages are formal languages comprising a set of instructions used
 
 | Language     | File Path         | Run Command                          |
 |--------------|-------------------|--------------------------------------|
-| Python      | `Python/hello.py` | `python hello.py`                   |
-| JavaScript  | `JavaScript/hello.js` | `node hello.js`                 |
-| HTML        | `HTML/hello.html` | Open in browser                     |
-| C           | `C/hello.c`       | Open in browser                     |
-| C++         | `C++/hello.cpp`   | `g++ hello.cpp -o hello && ./hello` |
-| C#          | `C#/hello.cs`     | Open in browser                     |
-| Java        | `Java/Main.java`  | `javac Main.java && java Main`      |
-| PHP         | `PHP/hello.php`   | `php hello.php`                     |
-| Ruby        | `Ruby/hello.rb`   | `ruby hello.rb`                     |
+| Python       | `Python/hello.py` | `python hello.py`                    |
+| JavaScript   | `JavaScript/hello.js` | `node hello.js`                  |
+| HTML         | `HTML/hello.html` | Open in browser                      |
+| C            | `C/hello.c`       | gcc hello.c -o hello && ./hello      |
+| C++          | `C++/hello.cpp`   | `g++ hello.cpp -o hello && ./hello`  |
+| C#           | `C#/hello.cs`     | dotnet run hello.cs                  |
+| Java         | `Java/Main.java`  | `javac Main.java && java Main`       |
+| PHP          | `PHP/hello.php`   | `php hello.php`                      |
+| Ruby         | `Ruby/hello.rb`   | `ruby hello.rb`                      |
+| Lua          | `Lua/hello.lua`   | `lua hello.lua`                      |
 
 ## 📈 Progress
 [![Languages](https://img.shields.io/badge/Languages-7%2F50-brightgreen)](README.md) [![Stars](https://img.shields.io/github/stars/Manu11-Pro/hello-world-languages?style=social)](https://github.com/Manu11-Pro/hello-world-languages)
