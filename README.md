@@ -8,10 +8,13 @@ Programming languages are formal languages comprising a set of instructions used
 - **Python** (`/Python/hello.py`) - Interpreted powerhouse for automation, data science, IoT scripting
 - **JavaScript** (`/JavaScript/hello.js`) - Essential for web frontends and Node.js backends
 - **HTML** (`/HTML/hello.html`) - Web structure foundation (markup language)
+- **C** (`/C/hello.c`) - Low-level procedural language used for system programming, ardware interaction.
 - **C++** (`/C++/hello.cpp`) - High-performance systems and embedded programming
+- **C#** (`/C#/hello.cs`) - Web, desktop, and enterprise applications
 - **Java** (`/Java/Main.java`) - Enterprise apps with platform independence
-- **PHP** (`/PHO/hello.php`) - Server-side dynamic web content
+- **PHP** (`/PHP/hello.php`) - Server-side dynamic web content
 - **Ruby** (`/Ruby/hello.rb`) - Elegant syntax for web frameworks
+- **Lua** (`/Lua/hello.lua`) - Lightweight embeddable scripting language
 
 ## Quick Run Commands
 
